@@ -1,5 +1,8 @@
-# UMOCloud Privacy Policy
+<div align="center">
 
+  # UMOCloud Privacy Policy 
+
+</div>
 
 Last Updated: January 31, 2026
 
