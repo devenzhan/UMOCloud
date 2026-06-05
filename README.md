@@ -1,4 +1,4 @@
-#UMO Cloud Privacy Policy
+# UMOCloud Privacy Policy
 
 
 Last Updated: January 31, 2026
